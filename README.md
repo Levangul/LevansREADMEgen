@@ -1,8 +1,8 @@
 
-  # readme generator
+  # levan
 
   ## Description
-  it generates readme 
+  gulba
 
   ## Table of contents
   - [installation](#installation)
@@ -13,24 +13,24 @@
   - [questions](#questions)
 
   ## Installation
-  download it
+  sds
 
   ## Usage
 
-  generate 
+  sdsd
   ## License
 
-  mit
+  Mit license
   ## Tests
 
-  node index.js
+  sds
   ## Contribution
 
-  myself only
+  sss
   ## Questions
 
   If you have any questions please contact me at 
-  https://github.com/levangul 
+  https://github.com/sss 
   or
-  levangulbatashvili1@gmail.com
+  sss
 
