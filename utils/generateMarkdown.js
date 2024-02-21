@@ -1,13 +1,14 @@
+
 function renderLicenseBadge(license) {
-  if (!license) {
+  if (license === "None") {
     return '';
   } else {
     return `![${license}](https://img.shields.io/badge/license-${license}-brightgreen)`;
-  } 
+  }
 }
 
 function renderLicenseLink(license) {
-  if (!license) {
+  if (license === "None") {
     return '';
   } else {
     return `[${license}](https://opensource.org/licenses/${license})`;
@@ -15,28 +16,26 @@ function renderLicenseLink(license) {
 }
 
 function renderLicenseSection(license) {
-  if (!license) {
+  if (license === "None") {
     return '';
   } else {
     return `## License
 
-This project is licensed under the ${renderLicenseLink(license)} license.`;
+  This project is licensed under the ${renderLicenseLink(license)} license.`;
   }
 }
 
 // TODO: Create a function to generate markdown for README
-function generateMarkdown(data, license) {
-  const badge = renderLicenseBadge(license);
-  const licenseLink = renderLicenseLink(license);
-  const licenseSection = renderLicenseSection(license);
+function generateMarkdown(data) {
 
-  
+
+
   return `
   # ${data.title}
   
-  ${badge} 
-  ${licenseLink} 
-  ${licenseSection} 
+  ${renderLicenseBadge(data.license)}
+
+
   ## Description
   ${data.description}
 
@@ -54,9 +53,9 @@ function generateMarkdown(data, license) {
   ## Usage
 
   ${data.usage}
-  ## License
+  
+  ${renderLicenseSection(data.license)}
 
-  ${data.license} 
   ## Tests
 
   ${data.tests}
