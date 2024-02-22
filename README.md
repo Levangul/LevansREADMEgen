@@ -3,7 +3,7 @@
   ![Mit](https://img.shields.io/badge/license-Mit-brightgreen)
 
   ## Description
-  This is high-quality README generator based on user inputs with node, using command line.
+  This is high quality README generator based on user inputs with node, using command line.
 
   ## Table of contents
   - [installation](#installation)
@@ -14,7 +14,7 @@
   - [questions](#questions)
 
   ## Installation
-  To install this app you will need to clone down repository and install inquirer from your command line
+  To install this app you will need to clone down repository and install inquirer from command line
 
   ## Usage
 
@@ -22,7 +22,7 @@
   
   ## License
     
-  This project is licensed under [Mit](https://opensource.org/licenses/Mit) license. 
+  This project is licensed under [Mit](https://opensource.org/blog/license/Mit) license. 
 
   ## Tests
 
@@ -33,6 +33,6 @@
   ## Contact
 
   If you have any questions please contact me at 
-  https://github.com/Levangul 
-  or Email: Levangulbatashvili1@gmail.com
+  https://github.com/levangul 
+  or Email: levangulbatashvili1@gmail.com
 
