@@ -24,7 +24,7 @@ const questions = [{
     type: "list",
     message: "What license is being used?",
     name: "license",
-    choices: ["Apache2.0", "Mit", "GNU General public license", "BSD 2-Clause 'simplified'", "Boost software license 1.0", "Mozila public license 2.0", "The unlicense", "None"]
+    choices: ["Apache2.0", "Mit",  "BoostSoftware1.0", "OpenSoftware3.0", "MozilaPublic2.0", "TheUnlicense", "None"]
 }, {
     type: "input",
     message: "How to test this app?",
