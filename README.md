@@ -35,7 +35,9 @@
   N/A
   ## Contact
 
-  If you have any questions please contact me at 
-  https://github.com/levangul 
-  or Email: levangulbatashvili1@gmail.com
+  If you have any questions please contact me git 
+
+  Github: https://github.com/levangul 
+
+  Email: levangulbatashvili1@gmail.com
 

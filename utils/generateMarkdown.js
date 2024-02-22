@@ -62,7 +62,9 @@ function generateMarkdown(data) {
   ## Contact
 
   If you have any questions please contact me at 
-  https://github.com/${data.username} 
+  
+  https://github.com/${data.username}
+  
   or Email: ${data.email}
 
 `;
