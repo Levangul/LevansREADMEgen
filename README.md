@@ -3,7 +3,7 @@
   ![Mit](https://img.shields.io/badge/license-Mit-brightgreen)
 
   ## Description
-  This is high quality README generator based on user inputs with node, using command line.
+  This is high quality README based on user inputs with node, using command line
 
   ## Table of contents
   - [installation](#installation)
@@ -19,6 +19,7 @@
   ## Usage
 
   By entering node index.js in your command line
+  https://github.com/Levangul/LevansREADMEgen/assets/150108077/2bcb6a1e-d49f-4701-94f3-2ac24d38ab42
   
   ## License
     
