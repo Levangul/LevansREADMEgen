@@ -35,7 +35,7 @@
   N/A
   ## Contact
 
-  If you have any questions please contact me git 
+  If you have any questions please contact me
 
   Github: https://github.com/levangul 
 
