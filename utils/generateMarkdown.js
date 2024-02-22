@@ -11,7 +11,7 @@ function renderLicenseLink(license) {
   if (license === "None") {
     return '';
   } else {
-    return `[${license}](https://opensource.org/licenses/${license})`;
+    return `[${license}](https://opensource.org/blog/license/${license})`;
   }
 }
 
