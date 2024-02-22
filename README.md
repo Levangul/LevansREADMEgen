@@ -19,7 +19,7 @@
   ## Usage
 
   By entering node index.js in your command line
-  https://github.com/Levangul/LevansREADMEgen/assets/150108077/2bcb6a1e-d49f-4701-94f3-2ac24d38ab42
+  ![Walkthrough](https://github.com/Levangul/LevansREADMEgen/assets/150108077/2bcb6a1e-d49f-4701-94f3-2ac24d38ab42)
   
   ## License
     
